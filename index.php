@@ -1,3 +1,3 @@
 <?php
 
-echo "<h1><b>Simple PHP B";
+echo "<h1><b>Simple PHP C";
